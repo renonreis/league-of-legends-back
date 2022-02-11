@@ -1,3 +1,3 @@
 module.exports = ({ env }) => ({
-  url: env('MY_HEROKU_URL'),
+  url: env('https://league-of-legends-back.herokuapp.com/'),
 });
